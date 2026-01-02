@@ -9,7 +9,7 @@ This project demonstrates how to handle multiple inputs and generate varied anal
 * **Conditional Logic**: Four different buttons trigger four distinct levels of intensity.
 
 ## 🛠️ Hardware Setup (CRUMB / Physical)
-* **Pin 3**: Output (LED or Passive Buzzer)
+* **Pin 3**: Output (Passive Buzzer)
 * **Pin 7**: Button 1 (100% intensity - `255`)
 * **Pin 6**: Button 2 (75% intensity - `191`)
 * **Pin 5**: Button 3 (50% intensity - `127`)
