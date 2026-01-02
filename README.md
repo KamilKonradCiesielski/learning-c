@@ -13,4 +13,4 @@ Each folder contains its own source code and a detailed README.
 
 1. **[Casting Example](./01-Casting_Example)** - Basics of data types and type casting.
 2. **[Discount Calculator](./02-Discount-Calculator)** - A simple financial tool practicing preprocessor directives.
-3. **[Arduino Piano](./03_Arduino_Piano)** - An interactive project using a buzzer and buttons (Tested in CRUMB).
+3. **[Arduino Piano](./03_Arduino_Piano )** - An interactive project using a buzzer and buttons (Tested in CRUMB).
