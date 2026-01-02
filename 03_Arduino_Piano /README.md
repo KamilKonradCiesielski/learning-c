@@ -1,4 +1,4 @@
-# 🎹 Arduino Interactive Controller (Piano Style)
+# 🎹 Arduino Interactive Controller
 
 An Arduino project that uses four buttons to trigger different levels of output intensity on a single pin using **PWM (Pulse Width Modulation)**.
 
