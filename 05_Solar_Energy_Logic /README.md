@@ -16,7 +16,6 @@ In this project, I practiced:
 * **Complex Boolean Expressions** – Combining multiple conditions using `&&` and `||`.
 * **Operator Precedence** – Properly grouping conditions using parentheses to ensure correct evaluation.
 * **Data Types** – Using `int` for binary/logical flags and `float` for precise measurements.
-* **Control Flow** – Managing program output using `if-else` statements.
 
 ## 🛠️ How to run it
 1.Ensure you have a C compiler (like GCC) installed.
