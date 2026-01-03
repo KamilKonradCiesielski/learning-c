@@ -15,7 +15,7 @@ Each folder contains its own source code and a detailed README.
 2. [Discount Calculator](./02_Discount_Calculator) - A simple financial tool practicing preprocessor directives.
 3. [Arduino Piano](./03_Arduino_Piano) - An interactive project using a buzzer and buttons (Tested in CRUMB).
 4. [Double LED Blink](./04_Double_Blink) - Alternating LED blink sequence using digital outputs.
-5. [Solar Logic Analyzer](./05_Solar_Logic) - Boolean expressions and operator precedence for environmental monitoring.
+5. [Solar Logic Analyzer](./05_Solar_Energy_Logic) - Boolean expressions and operator precedence for environmental monitoring.
 
 ---
 *Created by Kamil Ciesielski*
